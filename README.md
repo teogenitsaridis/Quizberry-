@@ -23,7 +23,12 @@ Each game selects **20 random questions** out of the 200, making every playthrou
 - 🔄 **Restart button** to start a new session immediately.  
 
 ## Screenshots 📸
-*(Add your screenshots here, e.g. `![screenshot1](screenshot1.png)`)*  
+## Screenshots
+
+![Screenshot 1](resources/images/screenshot1.png)
+![Screenshot 2](resources/images/screenshot2.png)
+![Screenshot 3](resources/images/screenshot3.png)
+
 
 ## How It Works ⚙️
 1. The app loads **200 Informatics questions** from the JSON file.  
